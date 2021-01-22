@@ -9,4 +9,5 @@ def square_array(array)
     new_array.push(squared)
     i += 1 
   end
+  new_array
 end
